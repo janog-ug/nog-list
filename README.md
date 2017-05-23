@@ -13,7 +13,7 @@ Network Operators Group List
 - [AfNOG - The Africa Network Operators Group](http://www.afnog.org/)
 - [APOPS - The Asia Pacific OperatorS Forum](http://www.apops.net/)
 - [AusNOG - The Australian Network Operators Group](http://www.ausnog.net/)  
--- aussie-isp - Australian ISP mail list (aussie-isp@aussie.net) -> This list is slowly retreating.
+  - aussie-isp - Australian ISP mail list (aussie-isp@aussie.net) -> This list is slowly retreating.
 - [BENOG - Belgian Network Operators Group](http://www.benog.net/)
 - [CARIBNOG - Caribbean Network Operators' Group](http://www.denog.de/)
 - [DENOG - The German Network Operators Group](http://www.denog.de/)
@@ -27,7 +27,7 @@ Network Operators Group List
 - [IDNOG - Indonesia Network Operators' Group](http://www.idnog.or.id/)
 - [ITNOG - ITalian Network Operators Group](http://www.itnog.it/)
 - [LACNOG - Latin America and Caribbean Region Network Operators Group](https://mail.lacnic.net/mailman/listinfo/lacnog)
-- [MENOG - Middle East Network Operators Group]http://www.menog.net/()
+- [MENOG - Middle East Network Operators Group](http://www.menog.net/)
 - [MyNOG - Malaysia Network Operators Group](http://www.mynog.org/)
 - [NANOG - The North American Network Operators' Group](http://www.nanog.org/)
 - [ngNOG - Nigerian Network Operators' Group](http://forum.org.ng/NgNOG/)
